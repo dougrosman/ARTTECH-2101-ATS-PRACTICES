@@ -1,3 +1,6 @@
+/* This program rotates squares about a centered circle, creating an
+interesting pattern */
+
 //import processing.serial.*;
 
 //int end = 10;
